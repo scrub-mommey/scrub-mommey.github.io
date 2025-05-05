@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My GitHub Pages Site
+# Welcome to Emma Hohn's Portfolio
 
 This is a demo of embedding images and video in Markdown.
 
